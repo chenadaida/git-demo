@@ -14,4 +14,4 @@ hello chen hello git!
 hello chen hello git!
 hello chen hello git!
 hello chen hello git! master
-hello chen hello git!
+hello chen hello git! hot-fix
